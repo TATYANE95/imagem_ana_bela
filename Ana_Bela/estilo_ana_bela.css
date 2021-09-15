@@ -1,0 +1,53 @@
+body{
+    background: url('../ana_bela/imagem_ana_bela/fundo.png');
+    width: 1350px;
+}
+#principall{
+    border: 1px solid;/* rgb(173, 22, 16); */ 
+    width: 900px;
+    
+}
+#menu{
+    background: rgb(168, 172, 175);
+    border: solid none/* red */;
+    width: 64.2%;
+    padding: 18px;
+    padding-top: 20px ;
+    display: flex;
+    justify-content:safe center;
+    
+}
+#conteudo{
+     background-color: #e4e4ec;
+     padding: 10px;
+     width: 882px;
+     }
+.img-campanhas{
+    border:10px solid #c3c3ae;
+}
+
+ a {
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    font-weight: bold;
+    border:1px solid rgb(49, 81, 82);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(126, 136, 136);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-right: 20px;
+    height: 14px;
+    
+} 
+.centralizar{
+     text-align: center ;
+ }
+ h2{ color: rgb(121, 119, 95);
+
+ }
+    /* 
+    largura e altura
+    width: 900 px;
+    height: 500 px;*/
+
